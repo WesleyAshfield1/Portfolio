@@ -29,7 +29,7 @@ new function Layout() {
                 </Switch>
             </body>
         </html>
-        ),
-};
+        );
+}
 
-export default 
+export default Layout;
