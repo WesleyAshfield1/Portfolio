@@ -11,7 +11,8 @@ function Projects({ projects }) {
                         <Card.Title>{project.title}</Card.Title>
                         <Card.Text>{project.resources}</Card.Text>
                         <Card.Text>{project.description}</Card.Text>
-                        <Card.Text>{project.githubURI}</Card.Text>
+                        <Card.Text>{project.githubURI}</Card.Text>                   
+                        {/* make the githuburi a link */}
                     </Card.Body>
                 </Card>
             ))}

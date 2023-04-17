@@ -1,7 +1,5 @@
 import React from 'react';
 
-
-
 const Resume = () => {
     return (
         <div className="container">
@@ -14,14 +12,6 @@ const Resume = () => {
           </div>
     )
 }
-
-
-
-
-
-
-
-
 
 
 export default Resume;
