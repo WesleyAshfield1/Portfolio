@@ -5,7 +5,7 @@ import  Contact  from './pages/Contact'
 import  Projects  from './pages/Projects'
 import  Resume  from './pages/Resume'
 import TopOfPage from './componets/header';
-import StreamersDen from './assets/images/StreamersDen.jpg';
+import StreamersDen from './assets/images/StreamersDen.JPG';
 
 
 const projects = [
